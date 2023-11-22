@@ -1,0 +1,67 @@
+,Gender,Age,Status,Children,Employment_Status,Annual_net_income,Internet_hours,Platforms,Influencers_follow,Influencer_purchase,Influence_factors,Online_purchase_preference,Monthly_expense,Purchase_frequency_year,Online_Influenced_purchase,Buying_target,Buying_sale_days
+1,Female,34-50,Married,Yes,Employed full time,"50,000-80,000",3-4,Facebook,No,Yes,Price (Promotions),Yes,50-150,12,50-75%,Myself and family,Yes
+2,Female,18-26,Single,No,Employed part time,"30,000-50,000",3-4,"Instagram, TikTok, Youtube, ",Yes,No,Price (Promotions),Yes,1-50,6,1-25 %,Myself,No
+3,Female,34-50,Married,Yes,Employed part time,"50,000-80,000",5-6,Facebook,Yes,No,All of the above,Yes,50-150,2,25-50%,Myself and family,Yes
+4,Female,18-26,Single,No,Student,"0-13,000",7-8,All of the above,Yes,No,All of the above,No,1-50,4,1-25 %,Myself,Yes
+5,Male,27-34,In a relationship,No,Employed full time,"50,000-80,000",3-4,Youtube,No,No,Price (Promotions),Yes,50-150,12,25-50%,Myself,Yes
+6,Male,27-34,Married,Yes,Employed full time,"80,000-100,000",1-2,Instagram,Yes,Yes,All of the above,No,1-50,12,25-50%,Myself and family,No
+7,Female,18-26,In a relationship,No,Student,"0-13,000",3-4,Twitter,No,Yes,Price (Promotions),Yes,1-50,2,1-25 %,Myself,Yes
+8,Female,27-34,In a relationship,Yes,Self-employed,"13,000-30,000",3-4,Facebook,No,Yes,All of the above,Yes,150-350,24,50-75%,Myself and family,Yes
+9,Male,34-50,In a relationship,Yes,Employed part time,"50,000-80,000",1-2,"Instagram, TikTok, Youtube, ",Yes,No,Price (Promotions),Yes,1-50,4,25-50%,Myself,Yes
+10,Female,27-34,Married,Yes,Homemaker,"50,000-80,000",5-6,Facebook,Yes,Yes,All of the above,No,50-150,24,50-75%,Myself,No
+11,Female,27-34,In a relationship,No,Employed full time,"13,000-30,000",1-2,"Instagram, TikTok, Youtube, ",Yes,No,Price (Promotions),No,1-50,4,1-25 %,Myself,Yes
+12,Female,18-26,Single,No,Student,"13,000-30,000",7-8,All of the above,No,Yes,Price (Promotions),No,1-50,12,25-50%,Myself,No
+13,Female,27-34,Married,Yes,Employed full time,"50,000-80,000",3-4,"Instagram, TikTok, Youtube, ",Yes,No,Price (Promotions),Yes,150-350,24,50-75%,Myself and family,Yes
+14,Male,27-34,Married,Yes,Self-employed,"50,000-80,000",3-4,Facebook,No,Yes,All of the above,Yes,50-150,12,50-75%,Myself and family,Yes
+15,Female,27-34,Single,No,Employed part time,"13,000-30,000",5-6,Facebook,No,No,Value,No,1-50,6,25-50%,Myself,No
+16,Female,27-34,Married,Yes,Employed part time,"13,000-30,000",3-4,Youtube,Yes,No,Price (Promotions),Yes,150-350,24,25-50%,Myself and family,Yes
+17,Female,34-50,Married,Yes,Homemaker,"80,000-100,000",1-2,Instagram,Yes,No,Price (Promotions),No,150-350,24,50-75%,Myself and family,Yes
+18,Female,34-50,In a relationship,Yes,Employed full time,"80,000-100,000",3-4,Youtube,No,Yes,Price (Promotions),Yes,50-150,2,1-25 %,Myself,No
+19,Male,27-34,Married,No,Employed full time,"50,000-80,000",1-2,Youtube,No,Yes,All of the above,No,50-150,24,25-50%,Myself and family,Yes
+20,Female,34-50,Married,Yes,Homemaker,"50,000-80,000",1-2,"Instagram, TikTok, Youtube, ",Yes,Yes,All of the above,Yes,50-150,24,25-50%,Myself and family,Yes
+21,Female,27-34,Single,No,Unemployed,"13,000-30,000",3-4,"Instagram, TikTok, Youtube, ",No,No,Value,Yes,1-50,4,25-50%,Myself,No
+22,Male,27-34,In a relationship,No,Employed full time,"80,000-100,000",1-2,Linkedin,No,No,Value,No,1-50,2,1-25 %,Myself,No
+23,Female,27-34,Married,No,Student,"50,000-80,000",3-4,Instagram,Yes,Yes,"Price (Promotions)
+Value",Yes,50-150,6,25-50%,Myself,Yes
+24,Female,27-34,In a relationship,No,Employed full time,"50,000-80,000",1-2,Instagram,Yes,Yes,All of the above,Yes,1-50,4,25-50%,Myself,Yes
+25,Female,34-50,Married,Yes,Employed part time,"80,000-100,000",3-4,All of the above,Yes,Yes,All of the above,Yes,150-350,24,50-75%,Myself and family,Yes
+26,Male,18-26,Single,No,Student,"0-13,000",1-2,Instagram,No,No,All of the above,Yes,1-50,4,50-75%,Myself,Yes
+27,Male,27-34,In a relationship,No,Employed full time,"13,000-30,000",1-2,Youtube,No,No,All of the above,Yes,1-50,6,25-50%,Myself,Yes
+28,Female,34-50,Married,Yes,Homemaker,"80,000-100,000",1-2,All of the above,Yes,Yes,All of the above,Yes,1-50,12,50-75%,My family,Yes
+29,Female,34-50,Married,Yes,Employed part time,"80,000-100,000",3-4,Youtube,No,No,All of the above,Yes,50-150,12,50-75%,Myself and family,Yes
+30,Female,34-50,Married,No,Self-employed,"30,000-50,000",7-8,Youtube,Yes,Yes,Value,Yes,1-50,4,25-50%,My family,Yes
+31,Male,18-26,Single,No,Student,"13,000-30,000",3-4,Youtube,No,No,All of the above,No,1-50,2,1-25 %,Myself,No
+32,Female,34-50,Married,Yes,Homemaker,"50,000-80,000",3-4,All of the above,Yes,No,Price (Promotions),Yes,50-150,12,50-75%,Myself and family,Yes
+33,Female,34-50,Married,Yes,Employed part time,"50,000-80,000",5-6,Instagram,Yes,No,"Price (Promotions)
+All of the above",Yes,150-350,24,50-75%,Myself and family,Yes
+34,Male,27-34,Married,No,Employed full time,"30,000-50,000",1-2,Youtube,Yes,No,"Price (Promotions)
+Brand",Yes,50-150,12,50-75%,Myself and family,Yes
+35,Female,34-50,Single,No,Self-employed,"13,000-30,000",3-4,"I don't use social media, sory",No,No,Value,Yes,1-50,4,1-25 %,Myself,Yes
+36,Male,27-34,In a relationship,No,Self-employed,"80,000-100,000",1-2,linkedin,No,No,I like it,Yes,1-50,2,25-50%,Myself,Yes
+37,Female,18-26,In a relationship,No,Student,"0-13,000",3-4,TikTok,Yes,No,Price (Promotions),No,1-50,2,1-25 %,Myself,Yes
+38,Female,34-50,Married,No,Unemployed,"0-13,000",3-4,Instagram,No,No,Price (Promotions),Yes,1-50,2,1-25 %,Myself and family,Yes
+39,Male,27-34,In a relationship,No,Multiple part time employed,"13,000-30,000",3-4,Twitter,Yes,No,Price (Promotions),No,1-50,0,0 %,I don't buy my clothes online,Yes
+40,Female,34-50,Married,Yes,Employed part time,"0-13,000",1-2,Facebook,No,No,Price (Promotions),Yes,50-150,4,50-75%,Myself and family,No
+41,Female,18-26,Single,No,Self-employed,"30,000-50,000",7-8,Instagram,Yes,No,"Price (Promotions)
+Value
+ethics, sustainability",Yes,1-50,1,1-25 %,Myself,Yes
+42,Female,34-50,Single,No,Employed part time,"13,000-30,000",3-4,Youtube,No,No,"Sustainability, social equality throughout the whole supply chain",No,1-50,0,0 %,,No
+43,Male,27-34,In a relationship,No,Employed full time,"50,000-80,000",3-4,Youtube,No,No,Brand,No,50-150,2,1-25 %,Myself and family,No
+44,Male,34-50,Married,Yes,Employed full time,"30,000-50,000",0-1,All of the above,No,No,Price (Promotions),Yes,1-50,2,25-50%,Myself and family,Yes
+45,Female,34-50,Married,Yes,Homemaker,"80,000-100,000",3-4,Facebook,Yes,No,"Price (Promotions)
+Brand",Yes,50-150,12,50-75%,Myself and family,Yes
+46,Female,34-50,Married,Yes,Homemaker,"0-13,000",1-2,Youtube,No,No,All of the above,No,50-150,0,0 %,Myself and family,No
+47,Male,34-50,Married,Yes,Employed full time,"80,000-100,000",1-2,Youtube,No,No,All of the above,No,1-50,4,25-50%,Myself,Yes
+48,Female,27-34,Married,No,Employed part time,"80,000-100,000",1-2,Instagram,Yes,Yes,All of the above,Yes,1-50,2,1-25 %,Myself and family,Yes
+49,Male,27-34,In a relationship,No,Employed full time,"30,000-50,000",3-4,Facebook,No,No,Price (Promotions),No,1-50,2,1-25 %,Myself and family,Yes
+50,Female,18-26,Single,No,Employed part time,"13,000-30,000",3-4,Twitter,Yes,No,All of the above,Yes,1-50,2,25-50%,Myself,Yes
+51,Male ,27-34,In a relationship,No,Employed full time,"13,000-30,000",1-2,Instagram,No,Yes,All of the above,Yes,1-50,2,1-25 %,Myself,Yes
+52,Female,27-34,Single,No,Employed full time,"0-13,000",3-4,Instagram,Yes,Yes,All of the above,Yes,50-150,6,25-50%,Myself and family,Yes
+53,Female,27-34,In a relationship,No,Employed full time,"13,000-30,000",7-8,Instagram,Yes,Yes,All of the above,Yes,1-50,6,1-25 %,Myself and family,Yes
+54,Male ,18-26,Single,No,Employed part time,"0-13,000",3-4,All of the above,No,No,Price (Promotions),Yes,1-50,12,25-50%,Myself,Yes
+55,Male,34-50,In a relationship,Yes,Employed full time,"30,000-50,000",1-2,Instagram,No,Yes,Price (Promotions),Yes,1-50,6,1-25 %,Myself and family,Yes
+56,Male,34-50,Married,Yes,Employed full time,"30,000-50,000",1-2,All of the above,No,No,Price (Promotions),Yes,50-150,12,25-50%,Myself and family,Yes
+57,Female,34-50,Married,Yes,Employed part time,"30,000-50,000",3-4,All of the above,Yes,Yes,All of the above,Yes,50-150,24,50-75%,Myself and family,Yes
+58,Female,27-34,Single,No,Employed part time,"0-13,000",3-4,Instagram,Yes,Yes,Price (Promotions),Yes,1-50,6,25-50%,Myself,Yes
+59,Female,34-50,Married,Yes,Homemaker,"13,000-30,000",3-4,All of the above,Yes,No,Price (Promotions),Yes,50-150,12,25-50%,Myself and family,Yes
+60,Male,27-34,Single,No,Employed part time,"13,000-30,000",1-2,Youtube,No,No,All of the above,No,1-50,2,1-25 %,Myself,No
